@@ -12,5 +12,5 @@ Headers
 ## CMakeLists.txt  
 Cmake config file
 
-## misc 
+## misc  
 Contains miscellaneous files (still do not delete)
