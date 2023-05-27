@@ -12,5 +12,5 @@ Headers
 ## CMakeLists.txt  
 Cmake config file
 
-## sdk-stuff  
-Contains SDK related files
+## misc 
+Contains miscellaneous files
