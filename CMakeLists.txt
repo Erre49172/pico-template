@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12) #min cmake version
 
-include("sdk-stuff/pico_sdk_import.cmake") #SDK include file,required
+include("misc/pico_sdk_import.cmake") #SDK include file,required
 
 pico_sdk_init() #init SDK,required
 
