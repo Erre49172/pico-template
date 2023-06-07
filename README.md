@@ -1,4 +1,4 @@
-# This is a template for making C++ projects for RaspberryPi pico  
+# This is a template for making C++ projects with RaspberryPi pico  
 
 
 # File structure  
