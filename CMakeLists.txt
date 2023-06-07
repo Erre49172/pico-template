@@ -2,9 +2,9 @@ cmake_minimum_required(VERSION 3.12) #min cmake version
 
 include("misc/pico_sdk_import.cmake") #SDK include file,required
 
-pico_sdk_init() #init SDK,required
-
 project(TEMPLATE C CXX ASM) #change to your preffered name
+
+pico_sdk_init() #init SDK,required
 
 #source file(s)
 
